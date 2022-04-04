@@ -1,0 +1,5 @@
+fase 11 Repetir 7 vezes
+     move foward
+     destroy block
+         if lava ahead: place cobblestone
+     move foward
