@@ -1,0 +1,30 @@
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
+turnLeft();
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
+turnLeft();
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
+
+
+avançar
+avançar
+avançar
+destruir o bloco
+virar à esquerda
+avançar
+avançar
+avançar
+destruir o bloco
+virar à esquerda
+avançar
+avançar
+avançar
+destruir o bloco
