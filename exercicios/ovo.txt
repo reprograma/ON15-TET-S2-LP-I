@@ -1,0 +1,13 @@
+fritar um ovo:
+1 - ir até a geladeira e ver se tem ovo
+2 - tem ovo?
+2.1 - não
+3 - ir comprar o ovo
+2.2 - sim -> pegar o ovo, manteiga e a frigideira
+3 - ascender o fogo
+4 - colocar a manteiga na frigideira
+5 - quebrar o ovo e juntar a mateiga
+6 - ovos mexidos?
+6.1 - sim -> mexer o ovo 
+6.2 - não -> deixar fritar
+7 - quando chegar no ponto, desligar

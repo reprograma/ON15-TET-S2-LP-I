@@ -1,0 +1,13 @@
+fase 09 minecraft
+
+quando exercutar:
+
+1 colocar a tocha
+2 virar à esquerda
+3 destruir o bloco
+4 avançar
+5 destruir o bloco
+6 virar à direita
+7 avançar 3x
+8 destruir o bloco
+9 colocar a tocha

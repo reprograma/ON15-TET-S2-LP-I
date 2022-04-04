@@ -1,8 +1,8 @@
 // string
 
-console.log('Lilit Bandeira tem' + 33 + 'anos')
+console.log('Lilit Bandeira tem ' + 33 + ' anos')
 console.log("Lilit Bandeira tem " + 19 + " anos")
-console.log(`Lilit Bandeira tem ${33} anos`)
+console.log(`Lilit Bandeira tem ${33} anos`) //trata o número como número dentro das aspas
 
 // number
 
@@ -10,7 +10,7 @@ console.log(3)
 console.log(9.123)
 console.log("4") // neste caso é uma string e não um number
 
-// objeto
+// // objeto
 
 console.table({
     nome: "Lilit",
