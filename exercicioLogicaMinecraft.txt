@@ -1,0 +1,45 @@
+MINECRAFT – FASE 14
+1.	Vire à direita;
+2.	Siga um passo para em frente;
+3.	Vire à esquerda;
+4.	Siga dois passos para frente;
+5.	Quebre o bloco á frente;
+6.	Vire para a direita e siga em frente por cinco passos;
+7.	Repita o processo á seguir durante 4 vezes:
+•	Vire á esquerda;
+•	Coloque um tijolo;
+•	Vire á direita;
+•	Ande um passo;
+8.	Vire a esquerda novamente;
+9.	Ande três passos;
+10.	Vire esquerda de novo;
+11.	Vire direita de novo;
+12.	Ande oito passos á sua frente;
+13.	Destrua um bloco;
+14.	Se tiver água construa uma ponte;
+15.	Senão caminhe três passos;
+16.	Destrua o bloco;
+17.	Vire a direita ande dois passos;
+18.	Construa uma ponte;
+19.	Ande dois passos;
+20.	Ascenda uma tocha de fogo;
+21.	Ande um passo;
+22.	Vire á esquerda;
+23.	Ande oito passos;
+24.	Tosquie a ovelha;
+25.	Vire à esquerda;
+26.	Ande um passo;
+27.	Tosquie a ovelha;
+28.	Vire a esquerda 2 x;
+29.	Ande um passo;
+30.	Construa uma ponte;
+31.	Ande dois passos;
+32.	Vire a direita
+33.	Ande um passo;
+34.	Vire á esquerda;
+35.	Destrua um bloco;
+36.	Ande oito passos;
+37.	Construa uma ponte para larva;
+38.	Ande dois passos
+39.	Destrói um bloco;
+40.	Vire para a Direita;
