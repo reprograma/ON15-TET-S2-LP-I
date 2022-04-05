@@ -1,0 +1,19 @@
+QUANDO ACORDO
+
+01 Me Levanto 
+02 Desligo o ventilador
+03 Vou ao Banheiro
+04 Urino 
+05 Troco a ração de mel
+06 Troco água de mel 
+07 Dobro meus lençóis
+08 Deixo o quarto organizado
+09 Varro o quarto  
+10 Tomo banho
+11 Escovo os dentes durante o banho
+12 Me seco
+13 Coloco as roupas para o trabalho
+14 Tomo café
+15 Organizo meu almoço
+16 Checo minha bolsa
+17 Saio para trabalhar. 
