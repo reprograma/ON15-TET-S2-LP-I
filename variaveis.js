@@ -3,7 +3,7 @@
 // operador de atribuição -> =
 // dado atribuido à variável -> String, number, boolean...
 
-var nome = "Lilit Bandeira"
+var nome = "Lilit"
 let idade = 33
 const eMaiorDeIdade = true
 let cidadeOndeNasceu = "Rio de Janeiro"
