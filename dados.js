@@ -1,19 +1,20 @@
 // string
 
-console.log('Lilit Bandeira tem' + 33 + 'anos')
-console.log("Lilit Bandeira tem " + 19 + " anos")
-console.log(`Lilit Bandeira tem ${33} anos`)
+// console.log(typeof String)
+//  console.log(`Oie`)
+//  console.log ("Maria Clara tem " + 22 + " anos de idade" )
+// console.log(`maria clara  tem ${22} anos`)
 
-// number
+// // number
+// faz conta normal so o numero e +
+// console.log(3)
+// console.log(9.123)
+// console.log("4") // neste caso é uma string e não um number
 
-console.log(3)
-console.log(9.123)
-console.log("4") // neste caso é uma string e não um number
 
-// objeto
 
-console.table({
-    nome: "Lilit",
-    signo: "Aquário",
-    idade: 33 
-})
+//  console.table({
+//      nome: "Maria",
+//     signo: "Aquário",
+//          idade: 22 
+//  })
