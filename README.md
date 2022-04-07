@@ -391,3 +391,5 @@ switch (regiao) {
 
 ².  Página: https://nodejs.org/en/
 ```
+# semana_dois
+# semana_dois
