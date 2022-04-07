@@ -1,0 +1,47 @@
+//Neste excercicio escolhi a fase 6 e a fase 7 para demonstrar.
+
+
+
+// Minha fase 6
+
+for (var count = 0; count < 6; count++) {
+  moveForward();
+  placeBlock("planksBirch");
+}
+turnRight();
+for (var count2 = 0; count2 < 2; count2++) {
+  moveForward();
+  placeBlock("planksBirch");
+}
+turnRight();
+for (var count3 = 0; count3 < 3; count3++) {
+  moveForward();
+  placeBlock("planksBirch");
+}
+turnLeft();
+moveForward();
+placeBlock("planksBirch");
+turnRight();
+for (var count4 = 0; count4 < 2; count4++) {
+  moveForward();
+  placeBlock("planksBirch");
+}
+
+
+
+
+// Minha fase 7
+
+  for (var count = 0; count < 6; count++) {
+    plantCrop();
+    moveForward();
+  }
+  turnRight();
+  for (var count2 = 0; count2 < 2; count2++) {
+    moveForward();
+  }
+  turnRight();
+  for (var count3 = 0; count3 < 6; count3++) {
+    moveForward();
+    plantCrop();
+  }
