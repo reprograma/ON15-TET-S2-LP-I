@@ -1,0 +1,11 @@
+FASE 11 DO JOGO MINECRAFT
+1. Andar uma casa
+2. Quebrar o bloco
+3. se houver lavra
+   4. colocar bloco para pisar e avancar
+5. senao
+   6. andar uma casa
+7 se houver carvao
+  8 pegar
+9   senao andar
+repetir os passos até conclir o caminho
