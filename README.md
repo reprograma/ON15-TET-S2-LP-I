@@ -208,7 +208,7 @@ let numeroDaTurma = 15
 const turmaEmAndamento = true
 ```
 
-A terceite, também seguindo o exemplo das variáveis acima, o JavaScript é case sensitive, ou seja é sensível as diferenças entre letras maísculas e minúsculas, além de seguir o padrão camelCase, ou seja, para criar variáveis com nomes compostos, juntamos as palavras sempre iniciando a próxima com letra maiúscula, o que cria uma silhueta que remete a um Camelo, dizem shuahsuah
+A terceira, também seguindo o exemplo das variáveis acima, o JavaScript é case sensitive, ou seja é sensível as diferenças entre letras maísculas e minúsculas, além de seguir o padrão camelCase, ou seja, para criar variáveis com nomes compostos, juntamos as palavras sempre iniciando a próxima com letra maiúscula, o que cria uma silhueta que remete a um Camelo, dizem shuahsuah
 
 ```jsx
 //nomedaaluna não é a mesma coisa de nomeDaAluna
@@ -255,16 +255,17 @@ Os operadores são fundamentais para realizar qualquer operação numa linguagem
 
 ```jsx
 
-// operador valor
-
-// valor operador
+let i = 5
+i++ // valor operador
+console.log(i)
+console.log(++i) // operador valor
 ```
 
 - Ternário (Condicional):
 
 ```jsx
 let sistema = "android"
-(sistema == "ioS") ? console.log("é iphone") : console.log("não é iphone")
+sistema == "ioS" ? console.log("é iphone") : console.log("não é iphone")
 // condição ? caso verdadeiro : caso falso
 ```
 
@@ -331,46 +332,45 @@ Podemos reduzir ao operador ternário:
 horario < 12 ? console.log("dia") : console.log("noite");
 ```
 
+Podemos encadear `else if`:
+
+```jsx
+if (horario >= 0 && horario < 6) { 
+    console.log("madrugada");
+} else if (horario >= 6 && horario < 12) { 
+    console.log("manhã");
+} else if (horario >= 12 && horario < 18) {
+    console.log("tarde");
+} else if (horario >= 18 &&  horario < 24) {
+    console.log("noite");
+} else {
+    console.log("horário inválido"); 
+}
+```
+
 #### 8.2. `Switch/case`
 
 A condicional switch avalia uma expressão, combinando o valor da expressão para um cláusula `case`, e executa as instruções associadas ao case. *(MDN)* Passamos o `break` para sair da condicional quando um case é correspondido e sua instrução executada. Caso nenhum case seja correspondido podemos usar a cláusula `default` (opcional)
 
 ```jsx
-switch (horario) {
-  case 0:
-  case 1:
-  case 2:
-  case 3:
-  case 4:
-  case 5:
-    console.log("madrugada")
-    break
-  case 6:
-  case 7:
-  case 8:
-  case 9:
-  case 10:
-  case 11:
-    console.log("manhã")
-    break
-  case 12:
-  case 13:
-  case 14:
-  case 15:
-  case 16:
-  case 17:
-    console.log("tarde")
-    break
-  case 18:
-  case 19:
-  case 20:
-  case 21:
-  case 22:
-  case 23:
-    console.log("noite")
-    break
-  default:
-    console.log("horário inválido");
+let regiao = 'centro-oeste'
+
+switch (regiao) {
+    case 'nordeste':
+        console.log('possui 9 estados');
+        break;
+    case 'norte':
+        console.log('possui 7 estados');
+        break;
+    case 'centro-oeste':
+        console.log('possui 3 estados e DF');
+        break;
+    case 'sudeste':
+        console.log('possui 4 estados');
+        break;
+    case 'sul':
+        console.log('possui 3 estados');
+        break;
 }
 ```
 ---
@@ -378,7 +378,8 @@ switch (horario) {
 
 #### 9.1. https://studio.code.org/s/mc/lessons/1/levels/1
 
-#### 9.2. Criar um algoritmo ou código que represente uma das fases do exercício anterior
+#### 9.2. Criar um algoritmo ou código que represente uma das 5 últimas fases do exercício anterior
+- Exercício pode ser entregue como uma lista de passos ou um fluxograma, no formato de texto ou imagem, através do repositório forkado, o link deve ser enviado no classroom
 
 ---
 ### 10. Referências
