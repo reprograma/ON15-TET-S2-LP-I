@@ -1,2 +1,7 @@
-1.
-2.
+Fase 10
+1. Avance
+2. Colocar pedregulho adiante
+3. Avance
+4. Repita duas vezes:
+- Avance
+- Destrua o bloco
