@@ -1,2 +1,58 @@
-1.
-2.
+Exercício 9 - Crie um algoritmo ou código que represente umas das fases do Joguinho 
+
+Fase 10
+
+1. move forward
+2. place cobblestone ahead
+3. move forward
+4. repeat 2 times: 
+	do move forward
+	   destroy block
+5. move forward
+6. turn right
+7. repeat 2 times
+	do destroy block
+	   move forward
+8. turn right
+9. move forward
+10. destroy block
+11. move forward
+12. turn right
+13. move forward
+14. destroy block
+
+
+
+
+Algoritmo feito em aula - Como começo o meu dia
+
+1. Escuto o despertador
+2. Me espreguiço
+3. Abro os olhos
+4. Levanto da cama
+5. vou ao banheiro
+6. Abro a torneira
+7. Pego a escova de dentes
+8. Coloco a pasta de dente
+9. Escovo os dentes 
+10. Lavo o rosto
+11. Fecho a torneira
+12. Pego a toalha
+13. Seco o rosto
+14. Pego a escova
+15. Penteio os cabelos 
+16. Tiro o pijama
+17. Abro o armário
+18. Pego uma roupa
+19. Visto a roupa
+20. Ligo o computador 
+21. Vou a cozinha 
+22. Pego a xícara
+23. Pego o café
+24. Coloco o café na xícara
+25. Pego o xícara
+26. Volto para o quarto
+27. Puxo a cadeira
+28. Sento na cadeira 
+29. Me logo na aula 
+30. E aguardo 
