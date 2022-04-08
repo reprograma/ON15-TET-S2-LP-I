@@ -1,0 +1,17 @@
+Algoritmo da Fase 9
+
+Mover-se três vezes seguidas para frente.
+Virar a direita.
+Mover-se para frente.
+Colocar uma tocha.
+Virar duas vezes seguidas para a esquerda.
+Mover-se cinco vezes seguidas para a frente.
+Colocar uma tocha.
+Virar a esquerda.
+Virar a esquerda.
+Mover-se para a frente.
+Mover-se para a frente.
+Virar a esquerda.
+Destruir o bloco.
+Virar a direita.
+Destruir o bloco.
