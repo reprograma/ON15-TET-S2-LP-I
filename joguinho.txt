@@ -1,0 +1,14 @@
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
+turnLeft();
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
+turnLeft();
+moveForward();
+moveForward();
+moveForward();
+destroyBlock();
