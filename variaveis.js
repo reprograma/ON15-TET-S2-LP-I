@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 // // palavra reservada -> var, const ou let
 // // identificador -> nomeDaVariável
 // // operador de atribuição -> =
@@ -65,3 +68,4 @@ if (true) {
 
 console.log(escopoGlobal)
 console.log(escopoBlocoIf)
+>>>>>>> 44d012fcf771ca340526a3c965883c7553b7c698
