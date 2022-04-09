@@ -1,0 +1,15 @@
+Fase 12 - StudioCode
+
+ Quando iniciar o jogo:
+1. O personagem deve virar para a esquerda
+2. Se houver lava em sua frente, deve colocar uma pedra
+3. Andar para frente
+4. Repetir o passo 2 e 3 por duas vezes
+5. Deve destruir um bloco
+6. Se houver lava em sua frente, deve colocar uma pedra
+7. Andar para frente
+8. Virar para a esquerda
+8. Andar para frente
+9. Se houver lava em sua frente, deve colocar uma pedra
+10. Andar para frente e destruir o bloco
+11. Repetir os passos 9 e 10 por duas vezes
