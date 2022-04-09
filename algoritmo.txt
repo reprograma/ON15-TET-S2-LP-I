@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fase 12 - StudioCode
 
  Quando iniciar o jogo:
@@ -13,3 +14,7 @@ Fase 12 - StudioCode
 9. Se houver lava em sua frente, deve colocar uma pedra
 10. Andar para frente e destruir o bloco
 11. Repetir os passos 9 e 10 por duas vezes
+=======
+1.
+2.
+>>>>>>> 44d012fcf771ca340526a3c965883c7553b7c698
