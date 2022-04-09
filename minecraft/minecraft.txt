@@ -1,0 +1,10 @@
+Fase 7
+Passo 1: quando executar
+passo 2:  repita 6 vezes palntar e avance 
+passo 3: plantar
+passo 4:  vire a direita 
+passo 5:  avance
+passo 6:  avance 
+passo 7: vire a direita 
+passo 8:  avance
+passo 9: repita 6 vezes faça plantar e avance 
