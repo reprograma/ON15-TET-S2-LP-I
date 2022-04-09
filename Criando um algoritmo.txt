@@ -1,0 +1,13 @@
+Fase 13
+
+Quando iniciar o jogo:
+1. O personagem deve virar para a direita;
+2  Colocar o trilho;
+3. Andar para frete;
+4. Repita 6 vezes o passo 2 e 3;
+5. O personagem deve virar para a direita;
+6  Colocar o trilho;
+7. Andar para frete;
+8. Repita 6 vezes o passo 6 e 7;
+9. Fase do jogo concluída. 
+
