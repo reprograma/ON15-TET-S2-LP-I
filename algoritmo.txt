@@ -1,2 +1,96 @@
-1.
-2.
+Fase 14
+
+Vira a direita >
+Se movimenta para frente 5 vezes seguidas >
+Vira a esquerda >
+Se movimenta para frente 1 vez >
+Coloca 1 tocha >
+Vira a direita >
+Se movimenta para frente 4 vezes seguidas, se o espaço a frente estiver vazio constroi um vidro >
+Vira a direita >
+Se movimenta para frente 4 vezes seguidas, se o espaço a frente estiver vazio constroi um vidro >
+Vira a direita >
+Se movimenta para frente 4 vezes seguidas, se o espaço a frente estiver vazio constroi um vidro >
+Coloca 1 tocha>
+Vira a direita >
+Se movimenta para frente 1 vez >
+Vira a direita >
+Coloca 1 tijolo à frente >
+Vira a esquerda >
+Se movimenta para frente 2 vezes >
+Vira a direita >
+Coloca 1 tijolo à frente >
+Vira a direita >
+Vira a direita >
+Se movimenta para frente 7 vezes >
+Vira a esquerda >
+Se movimenta para frente 5 vezes seguidas, se o espaço a frente estiver com água constroi uma base rochosa >
+Vira a direita >
+Se movimenta para frente 3 vezes seguidas, se o espaço a frente estiver com água constroi uma base rochosa >
+Se movimenta para frente 1 vez >
+Tosar a ovelha.
+
+
+Código do jogo:
+
+turnRight();
+for (var count = 0; count < 5; count++) {
+  moveForward();
+}
+turnLeft();
+moveForward();
+placeTorch();
+turnRight();
+for (var count2 = 0; count2 < 4; count2++) {
+  moveForward();
+  ifBlockAhead("", function() {
+    placeBlock("glass");
+  });
+}
+turnRight();
+for (var count3 = 0; count3 < 4; count3++) {
+  ifBlockAhead("", function() {
+    placeBlock("glass");
+  });
+  moveForward();
+}
+turnRight();
+for (var count4 = 0; count4 < 4; count4++) {
+  ifBlockAhead("", function() {
+    placeBlock("glass");
+  });
+  moveForward();
+}
+placeTorch();
+turnRight();
+moveForward();
+turnRight();
+placeBlockAhead("bricks");
+turnLeft();
+for (var count5 = 0; count5 < 2; count5++) {
+  moveForward();
+}
+turnRight();
+placeBlockAhead("bricks");
+turnRight();
+turnRight();
+for (var count6 = 0; count6 < 7; count6++) {
+  moveForward();
+}
+turnLeft();
+for (var count7 = 0; count7 < 5; count7++) {
+  moveForward();
+  ifBlockAhead("water", function() {
+    placeBlockAhead("bedrock");
+  });
+}
+turnRight();
+for (var count8 = 0; count8 < 3; count8++) {
+  moveForward();
+  ifBlockAhead("water", function() {
+    placeBlockAhead("bedrock");
+  });
+}
+moveForward();
+shear();
+
